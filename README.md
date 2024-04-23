@@ -83,7 +83,7 @@ Use MySQL to store information in a structured format.
 ### 4.1 Website Frontend
 The frontend features a user-friendly interface with various pages as shown below.
 
-![page1](images/front1.png)
+![page1](front1.png)
 ![Home Page](images/front2.png)
 ![Home Page](images/front3.png)
 ![Home Page](images/front4.png)
