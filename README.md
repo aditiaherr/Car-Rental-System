@@ -61,7 +61,8 @@ Use MySQL to store information in a structured format.
 
 ### Hardware Requirements
 - Computer with sufficient processing power, memory, and storage.
-- Monitor with a resolution of at least 1280x800 pixels.
+- Monitor with a resolution of at least 1280x800 pixels.![front1](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/9c3fbfe9-c32f-4a5c-a809-b7c7a51ec381)
+
 - Keyboard and mouse.
 - Stable internet connection.
 
@@ -83,20 +84,21 @@ Use MySQL to store information in a structured format.
 ### 4.1 Website Frontend
 The frontend features a user-friendly interface with various pages as shown below.
 
-![page1](front1.png)
-![Home Page](images/front2.png)
-![Home Page](images/front3.png)
-![Home Page](images/front4.png)
+![front1](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/81960173-5bc1-4761-8336-55dfc841dc54)
+![front2](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/1b3140ad-07b3-44a6-9eb1-29fdbde27b7d)
+![front3](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/b0013db3-28f0-4b10-ad84-30771eb2b4e7)
 
 
 ### 4.2 Website Backend
 The backend includes features for managing bookings, vehicles, and feedback.
 
-![Bookings](images/back1.png)
-![Bookings](images/back2.png)
-![Bookings](images/back3.png)
+
+![back1](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/8d08d70f-6e26-49ec-acc2-45098dd6b040)
+![back2](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/0bc16b00-8a94-4828-a890-b1ba5589d176)
+![back3](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/23b534c4-dc41-4d0f-b17f-465e1e1bf9d6)
 
 <!-- Add more backend images -->
+![front3](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/4047a17e-2827-4729-a15c-eebe4ae95c85)
 
 ---
 
