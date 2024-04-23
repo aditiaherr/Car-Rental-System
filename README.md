@@ -97,8 +97,6 @@ The backend includes features for managing bookings, vehicles, and feedback.
 ![back2](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/0bc16b00-8a94-4828-a890-b1ba5589d176)
 ![back3](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/23b534c4-dc41-4d0f-b17f-465e1e1bf9d6)
 
-<!-- Add more backend images -->
-![front3](https://github.com/aditiaherr/Car-Rental-System/assets/115233911/4047a17e-2827-4729-a15c-eebe4ae95c85)
 
 ---
 
